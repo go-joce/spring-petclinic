@@ -4,13 +4,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.springframework.samples</groupId>
-  <artifactId>spring-petclinic</artifactId>
+  <artifactId>edu.depaul.cdm.se441</artifactId>
   <version>1.4.2</version>
   <name>Spring Pet Clinic</name>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-parent</artifactId>
+    <artifactId>edu.depaul.cdm.se441</artifactId>
     <version>1.4.2.RELEASE</version>
   </parent>
 
