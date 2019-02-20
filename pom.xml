@@ -3,13 +3,13 @@
   xmlns="http://maven.apache.org/POM/4.0.0"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
- <groupId>edu.depaul.cdm.se441</groupId>
+  <groupId>org.springframework.samples</groupId>
   <artifactId>spring-petclinic</artifactId>
   <version>1.4.2</version>
   <name>Spring Pet Clinic</name>
 
   <parent>
-<groupId>edu.depaul.cdm.se441</groupId>
+    <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>1.4.2.RELEASE</version>
   </parent>
@@ -161,7 +161,9 @@
       <version>2.4.7</version>
       <scope>test</scope>
 	</dependency>
+
   </dependencies>
+  
 
   <build>
     <plugins>
@@ -249,6 +251,13 @@
             <artifactId>bootstrap</artifactId>
             <version>${webjars-bootstrap.version}</version>
           </dependency>
+		  
+		  	 <dependency>
+        <groupId>org.mockito</groupId>
+        <artifactId>mockito-core</artifactId>
+        <version>2.18.0</version>
+    </dependency>
+
         </dependencies>
       </plugin>
 
