@@ -7,3 +7,4 @@ target/*
 /target
 _site/
 .vagrant/
+tmp/jdk-8u131-linux-x64.rpm
