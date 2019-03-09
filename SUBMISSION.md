@@ -6,13 +6,13 @@ DOCKER
 
 ![Screen Capture #1](hw8images/dockerps.PNG)<BR>
 5 pts Your browser accessing the main page of the website from your local container.
-DOCKER COMPOSE - MYSQL ONLY<BR>
 5 pts The output from the docker-compose up command.<BR>
 ![Screen Capture #2](hw8images/dockercomposeup1.PNG)
 ![Screen Capture #3](hw8images/dockercomposeup2.PNG)
 ![Screen Capture #4](hw8images/dockercomposeup3.PNG)
 5 pts Your browser accessing the “Veterinarians” page of the website from your local container
 when you run the application from the host system.<BR>
+I could not access the site through http://192.168.99.100:2376/ because of certificate and security errors.  Even after rebuilding the certificates and docker-machine restart I couldn't hit the page.<BR>
 5 pts A section of the stack trace generated when you attempt to run the application
 container that has been updated to use MySQL.<BR>
 
