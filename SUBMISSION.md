@@ -1,11 +1,12 @@
 DOCKER
-5 pts Your dockerfile. Please provide a link to this file rather than a screen capture.
+5 pts Your dockerfile. Please provide a link to this file rather than a screen capture.<BR>
 [a relative link](Dockerfile)
-5 pts Your running docker instance as shown by a ps command.
 
-![Screen Capture #1](hw8images/dockerps.PNG)
+5 pts Your running docker instance as shown by a ps command.<BR>
+
+![Screen Capture #1](hw8images/dockerps.PNG)<BR>
 5 pts Your browser accessing the main page of the website from your local container.
-DOCKER COMPOSE - MYSQL ONLY
+DOCKER COMPOSE - MYSQL ONLY<BR>
 5 pts The output from the docker-compose up command.
 ![Screen Capture #2](hw8images/dockercomposeup1.PNG)
 ![Screen Capture #3](hw8images/dockercomposeup2.PNG)
