@@ -5,7 +5,7 @@ DOCKER
 5 pts Your running docker instance as shown by a ps command.<BR>
 
 ![Screen Capture #1](hw8images/dockerps.PNG)<BR>
-5 pts Your browser accessing the main page of the website from your local container.
+5 pts Your browser accessing the main page of the website from your local container.<BR>
 5 pts The output from the docker-compose up command.<BR>
 ![Screen Capture #2](hw8images/dockercomposeup1.PNG)
 ![Screen Capture #3](hw8images/dockercomposeup2.PNG)
