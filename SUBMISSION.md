@@ -25,7 +25,7 @@ to this file rather than a screen capture.<BR>
 [docker compose link](docker-compose.yml)<BR>
 5 pts Your updated application-mysql.properties file containing the URL change for
 the database server. Please provide a link to this file rather than a screen capture.<BR>
-[application-mysql.properties file link](\src\main\resources\application-mysql.properties)<BR>
+[application-mysql.properties file link](/src/main/resources/application-mysql.properties)<BR>
 5 pts The output from the docker-compose up command.<BR>
 
 ![Screen Capture #4](hw8images/dockercomposeup.PNG)<BR>
