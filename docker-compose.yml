@@ -16,5 +16,4 @@ services:
         - "8484:8080/tcp"
         depends_on:
         - mysql
-        command: "--innodb_use_native_aio=0"
         
