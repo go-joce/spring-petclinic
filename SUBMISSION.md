@@ -30,7 +30,8 @@ the database server. Please provide a link to this file rather than a screen cap
 [application-mysql.properties file link](/src/main/resources/application-mysql.properties)<BR>
 5 pts The output from the docker-compose up command.<BR>
 
-![Screen Capture #4](hw8images/dockercomposeup.PNG)<BR>
-I tried editing the files multiple times but could not get past this error.<BR>
+![Screen Capture #4](hw8images/mysqldockercomposeup1.PNG)<BR>
+![Screen Capture #4](hw8images/mysqldockercomposeup2.PNG)<BR>
 5 pts Your browser accessing the “Veterinarians” page of the website from your local container.<BR>
-Could not build site after trying to debug error...  
+
+![Screen Capture #4](hw8images/mysqlvet.PNG)<BR>
